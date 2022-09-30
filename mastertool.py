@@ -11,7 +11,7 @@ import create_pattern
 import offset
 import fuzzing
 result = colored(pyfiglet.figlet_format("              SBM TOOL",font="slant"),color="red")
-names = colored("By sheri and dippam",color="yellow")
+names = colored("By Sheri Shravan Kumar",color="yellow")
 print(result)
 print(" "*45 + names)
 print("Welcome to Buffer overfloww automator")
