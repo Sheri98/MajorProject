@@ -1,6 +1,6 @@
 # Major Project
 
-Welcome to the Major Project repository! This project aims to [describe the purpose or goal of your project]. Feel free to explore the code and documentation, and contribute to the project.
+Welcome to the Major Project repository! This project aims to improve knowledge in the field of binary exploitation by learning, building, and developing automated tools for identifying and exploiting vulnerabilities. The primary focus is on a static program that discovers a fixed vulnerability inside a server and provides assistance in its exploitation. The ultimate goal is to create a fully automated approach using PWN tools.
 
 ## Table of Contents
 
@@ -10,9 +10,8 @@ Welcome to the Major Project repository! This project aims to [describe the purp
    - [Installation](#installation)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact](#contact)
-7. [Acknowledgments](#acknowledgments)
+5. [Contact](#contact)
+6. [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -38,22 +37,21 @@ git clone https://github.com/Sheri98/MajorProject.git
 
 ## Usage
 
-Provide detailed instructions for using the project, including examples of how to run the code, how to use the application, or how to interact with the project.
+1. You need to run the Matsertool.py file.
+2. Select the desired step
 
 ## Contributing
 
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to contribute to the project.
+Contributions are welcome! 
 
-## License
-
-This project is licensed under the [LICENSE_NAME] License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - shravankumarsheri39@gmail.com
 
 Project Link: https://github.com/Sheri98/MajorProject
 
 ## Acknowledgments
 
-* List any resources, libraries, or individuals that helped you during the development of the project.
+* Python Modules
+* TCM course work
