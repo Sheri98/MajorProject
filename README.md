@@ -1,6 +1,4 @@
-# Major Project
-
-Welcome to the Major Project repository! This project aims to improve knowledge in the field of binary exploitation by learning, building, and developing automated tools for identifying and exploiting vulnerabilities. The primary focus is on a static program that discovers a fixed vulnerability inside a server and provides assistance in its exploitation. The ultimate goal is to create a fully automated approach using PWN tools.
+# Major Project: Binary Exploitation Learning and Automation
 
 ## Table of Contents
 
@@ -15,7 +13,7 @@ Welcome to the Major Project repository! This project aims to improve knowledge 
 
 ## Introduction
 
-[Provide a brief overview of the project, its purpose, and any important background information.]
+Welcome to the Major Project repository! This project aims to improve knowledge in the field of binary exploitation by learning, building, and developing automated tools for identifying and exploiting vulnerabilities. The primary focus is on a static program that discovers a fixed vulnerability inside a server and provides assistance in its exploitation. The ultimate goal is to create a fully automated approach using PWN tools.
 
 ## Getting Started
 
