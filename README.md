@@ -20,11 +20,6 @@ Welcome to the Major Project repository! This project aims to improve knowledge 
 Follow the steps below to set up the project on your local machine.
 
 ### Prerequisites
-
-List any software, libraries, or tools required to run the project. Include version numbers and installation instructions.
-
-Example:
-
 Python 3.8 or later
 
 ### Installation
