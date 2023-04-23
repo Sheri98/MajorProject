@@ -27,7 +27,8 @@ Python 3.8 or later
 1. Clone the repository:
 git clone https://github.com/Sheri98/MajorProject.git
 
-<iframe width="560" height="315" src="https://youtu.be/arvsxrea52k" frameborder="0" allowfullscreen></iframe>
+[![Alt text for your video](https://img.youtube.com/vi/arvsxrea52k/0.jpg)](https://www.youtube.com/watch?v=arvsxrea52k)
+
 
 ## Usage
 
