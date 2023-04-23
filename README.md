@@ -27,7 +27,7 @@ Python 3.8 or later
 1. Clone the repository:
 git clone https://github.com/Sheri98/MajorProject.git
 
-[![Alt text for your video](https://img.youtube.com/vi/arvsxrea52k/0.jpg)](https://www.youtube.com/watch?v=arvsxrea52k)
+[![Alt text for your video](https://img.youtube.com/vi/UrUAZA4g33I/0.jpg)](https://www.youtube.com/watch?v=UrUAZA4g33I)
 
 
 ## Usage
